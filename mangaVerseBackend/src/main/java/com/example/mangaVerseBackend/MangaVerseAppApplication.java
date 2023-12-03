@@ -1,4 +1,4 @@
-package com.example.mangaVerseApp;
+package com.example.mangaVerseBackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
